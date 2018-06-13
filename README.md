@@ -3,4 +3,6 @@ A Bokeh app for doing basic exploration of movie and music data scraped from Met
 
 bokeh serve --show main.py
 
-App should load locally in web browser.
+App should load locally in web browser. Based off the bokeh IMDB movie explorer:
+
+https://demo.bokehplots.com/apps/movies
